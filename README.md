@@ -28,7 +28,4 @@ PPS：为什么不 free ？答：轻易获得的东西一般都不太珍惜，�
 
 ## 联系
 
-- SICP/LISP 交流QQ群：119845407
-- 公众号：KeepWritingCodes
-
-  ![KeepWritingCodes 微信公众号](http://liujiacai.net/images/wx_qrcode.jpg)
+- Telegram 交流群：https://t.me/clojurists
