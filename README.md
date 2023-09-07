@@ -28,4 +28,4 @@ PPS：为什么不 free ？答：轻易获得的东西一般都不太珍惜，�
 
 ## 联系
 
-- Telegram 交流群：https://t.me/clojurists
+- Telegram 交流群：https://t.me/emacstalk
